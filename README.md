@@ -10,7 +10,7 @@ starting words ”salet”, ”crane”, and ”bares”, respectively, and runt
 ## Project Structure
 This repo contains three Jupyter Notebooks, one each for the Shannon entropy, minimax, and frequency analysis approaches. These notebooks use
 the ```data``` folder, containing ```.txt``` files of lists of five letter words (all possible words and only words accepted by Wordle). The 
-```results``` folder containts ```.txt``` files of the number of guesses it took to solve Wordle for each Wordle word, and the ```figures``` folder 
+```results``` folder contains ```.txt``` files of the number of guesses it took to solve Wordle for each Wordle word, and the ```figures``` folder 
 contains plots generated from these results.
 
 ## Usage
@@ -27,4 +27,4 @@ through the whole sequence of possible five letter words.
 
 ## Research Paper
 If you want to learn more about the process behind this project (including the math involved for each approach), I wrote an accompanying research 
-paper, located ![here](https://github.com/JoJoFence/WordleOptimizer/blob/095820c5ec72d6666637e758662342591985b059/paper/JonasHansen_HowToBeatWordle_15May2022.pdf)!
+paper, located [here](https://github.com/JoJoFence/WordleOptimizer/blob/095820c5ec72d6666637e758662342591985b059/paper/JonasHansen_HowToBeatWordle_15May2022.pdf)!
